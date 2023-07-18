@@ -1,1 +1,2 @@
 # test-precommit-hooks
+test
